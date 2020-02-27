@@ -30,7 +30,6 @@ namespace GuessingGame
                     {
                         Console.WriteLine ($"Game over. The number was {secretNumber}");
                     }
-
                 }
                 else if (userGuessInt < secretNumber)
                 {
